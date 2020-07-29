@@ -3,7 +3,7 @@ The repo contains a spring boot application with a single `/api/v1/fixme` endpoi
 
 ### Objectives
 1. Fix the build issues and run the application
-2. The build should be clean without warnings.
+2. The build should be clean without warnings and application should run using wrapper files
 3. `/api/v1/fixme` should return ``{ response: "Good Job, you win !!!" }``
 
 ### HINTS
